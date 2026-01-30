@@ -1,6 +1,6 @@
 # Program Silsilah Keluarga (Family Tree Viewer)
 
-Aplikasi ini adalah program desktop berbasis C++ yang memvisualisasikan struktur silsilah keluarga secara grafis. Program membaca data dari file eksternal (`Family.csv`) dan menggambarkannya sebagai diagram pohon interaktif.
+Aplikasi ini adalah program desktop berbasis C++ yang memvisualisasikan struktur silsilah keluarga secara grafis. Program membaca data dari file eksternal (`Family.csv`) dan menggambarkannya sebagai diagram pohon interaktif. 
 
 ##  Data Mahasiswa
 
