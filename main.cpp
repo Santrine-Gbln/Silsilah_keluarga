@@ -1,10 +1,3 @@
-/**
- * Family Tree Viewer - ROBUST LOADING VERSION
- * Penjelasan Detail untuk Video Presentasi
- */
-
-// 1. PREVENT WINDOWS MACROS
-// Mencegah Windows mendefinisikan makro min dan max agar tidak bentrok dengan std::min/max milik C++
 #define NOMINMAX
 
 // Memastikan aplikasi menggunakan set karakter Unicode (mendukung berbagai bahasa/simbol)
@@ -676,3 +669,4 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int nCmdShow) {
     }
     return 0;
 }
+
