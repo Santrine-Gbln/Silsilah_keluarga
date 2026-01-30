@@ -21,8 +21,6 @@ Aplikasi ini adalah program desktop berbasis C++ yang memvisualisasikan struktur
 2.  **Live Reload (Real-time):** 
     Fitur canggih di mana program memantau file `Family.csv`. Jika Anda mengedit dan menyimpan file CSV saat program berjalan, tampilan silsilah akan **diperbarui secara otomatis** tanpa perlu restart aplikasi.
 
-3.  **Navigasi Scroll:** 
-    Mendukung scroll bar (vertikal dan horizontal) sehingga mampu menampilkan silsilah keluarga yang sangat besar/luas.
 ##  Struktur File
 
 *   `main.cpp`: Kode sumber (source code) utama. Berisi logika pembacaan file, struktur data `Person`, algoritma layout, dan rendering grafis Windows.
