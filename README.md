@@ -64,4 +64,3 @@ Data keluarga disimpan di file `Family.csv`. Anda bisa mengeditnya menggunakan E
 ![Tampilan Program Silsilah](silsilah.png)
 
 ---
-**Link Video Penjelasan:** [wa]
