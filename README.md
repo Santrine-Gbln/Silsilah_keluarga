@@ -5,7 +5,6 @@ Project ini dibuat untuk memenuhi tugas **Ujian Akhir Semester (UAS)** mata kuli
 Aplikasi ini adalah program desktop berbasis C++ yang memvisualisasikan struktur silsilah keluarga secara grafis. Program membaca data dari file eksternal (`Family.csv`) dan menggambarkannya sebagai diagram pohon interaktif.
 
 ##  Data Mahasiswa
-> **Catatan:** Silakan lengkapi data di bawah ini sebelum mengumpulkannya.
 
 *   **Nama:** Muhammad Hilal Ikbar
 *   **NIM:** 125103053
