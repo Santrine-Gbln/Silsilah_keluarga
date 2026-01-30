@@ -1,7 +1,5 @@
 # Program Silsilah Keluarga (Family Tree Viewer)
 
-Project ini dibuat untuk memenuhi tugas **Ujian Akhir Semester (UAS)** mata kuliah **Praktikum Algoritma dan Pemrograman Terstruktur C** (Semester Gasal 2025-2026) di **Universitas Paramadina**.
-
 Aplikasi ini adalah program desktop berbasis C++ yang memvisualisasikan struktur silsilah keluarga secara grafis. Program membaca data dari file eksternal (`Family.csv`) dan menggambarkannya sebagai diagram pohon interaktif.
 
 ##  Data Mahasiswa
