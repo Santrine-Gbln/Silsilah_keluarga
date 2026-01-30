@@ -24,7 +24,7 @@ Aplikasi ini adalah program desktop berbasis C++ yang memvisualisasikan struktur
 ##  Struktur File
 
 *   `main.cpp`: Kode sumber (source code) utama. Berisi logika pembacaan file, struktur data `Person`, algoritma layout, dan rendering grafis Windows.
-*   `Family.csv`: Database keluarga dalam format teks sederhana.
+*   `Family.csv`: Berisi tentang semua input data anggota keluarga yang akan ditampilkan pada project ini.
 *   `sisilah.cbp`: File project untuk dibuka di IDE **Code::Blocks**.
 
 ##  Cara Menggunakan
